@@ -1,0 +1,26 @@
+{
+  "name": "todolist-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stu050418/todolist-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stu050418/todolist-3/issues"
+  },
+  "homepage": "https://github.com/stu050418/todolist-3#readme",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "engines":{
+    "node": "16.x"
+  }
+}
